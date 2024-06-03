@@ -1,0 +1,1 @@
+- TPO22-Reading-P3 with TPO23-Reading-P3 are misplaced by each other. so for the vocabs you need to consider that but really doesn't matter.
