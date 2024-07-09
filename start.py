@@ -42,49 +42,53 @@ def create_toefl_materials(tpo_neo, number):
         # Writing articles to text files
         for ind, row in enumerate(rows):
             filename = f"{tpo_neo.upper()}{number}-Reading-P{ind+1}.md"
-            with open(os.path.join(text_dir, filename), 'w') as file:
-                file.write(f"### {row[0]}\n")  # Assuming that the title is at index 1
-                file.write(row[1])  # Assuming that the content is at index 2
+            file_path = os.path.join(text_dir, filename)
+            if not os.path.exists(file_path) or os.path.getsize(file_path) <= 0:
+                with open(os.path.join(text_dir, filename), 'w') as file:
+                    file.write(f"### {row[0]}\n")  # Assuming that the title is at index 1
+                    file.write(row[1])  # Assuming that the content is at index 2
 
-                query = f"SELECT reading_question_questionId, reading_question_articleQuestion_Content, reading_question_articleQuestion_RightAnswer FROM tpo_reading_question WHERE reading_question_questionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY reading_question_questionId"
-                cursor.execute(query)
-                qrows = cursor.fetchall()
-            
-                query = f"SELECT reading_question_option_articleQuestionId,reading_question_option_articleQuestionOptionContent FROM tpo_reading_question_options WHERE reading_question_option_articleQuestionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY reading_question_option_articleQuestionId"
-                cursor.execute(query)
-                qorows = cursor.fetchall()
+                    query = f"SELECT reading_question_questionId, reading_question_articleQuestion_Content, reading_question_articleQuestion_RightAnswer FROM tpo_reading_question WHERE reading_question_questionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY reading_question_questionId"
+                    cursor.execute(query)
+                    qrows = cursor.fetchall()
                 
-                
-                user_conn = sqlite3.connect('tpouser.db')
-                user_cursor = user_conn.cursor()
-                user_cursor.execute(f"SELECT questionId, userChoice FROM readAnswer WHERE questionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY questionId")
-                
-                user_answers = {qid: ua for qid,ua in user_cursor.fetchall()}
-                
-                options_dict = {}
-                for option in qorows:
-                    question_id = option[0]
-                    option_content = option[1]
-                    if question_id not in options_dict:
-                        options_dict[question_id] = []
-                    options_dict[question_id].append(option_content)
+                    query = f"SELECT reading_question_option_articleQuestionId,reading_question_option_articleQuestionOptionContent FROM tpo_reading_question_options WHERE reading_question_option_articleQuestionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY reading_question_option_articleQuestionId"
+                    cursor.execute(query)
+                    qorows = cursor.fetchall()
+                    
+                    
+                    user_conn = sqlite3.connect('tpouser.db')
+                    user_cursor = user_conn.cursor()
+                    user_cursor.execute(f"SELECT questionId, userChoice FROM readAnswer WHERE questionId LIKE '{tpo_neo.upper()}_0{number}_R00{ind+1}%' ORDER BY questionId")
+                    
+                    user_answers = {qid: ua for qid,ua in user_cursor.fetchall()}
+                    
+                    options_dict = {}
+                    for option in qorows:
+                        question_id = option[0]
+                        option_content = option[1]
+                        if question_id not in options_dict:
+                            options_dict[question_id] = []
+                        options_dict[question_id].append(option_content)
 
-                
-                for question in qrows:
-                    question_id = question[0]
-                    question_content = question[1]
                     
-                    file.write(f"\n\n#### {question_id}\n")
-                    file.write(f"{question_content}\n")
-                    
-                    if question_id in options_dict:
-                        for option in options_dict[question_id]:
-                            file.write(f"- {option}\n")
-                    file.write(f"Right : {question[2]}\t")
-                    file.write(f"Chose : {user_answers[question_id]}\n")
-                
-            print(f"Writed: {filename}")
-       
+                    for question in qrows:
+                        question_id = question[0]
+                        question_content = question[1]
+                        
+                        file.write(f"\n\n#### {question_id}\n")
+                        file.write(f"{question_content}\n")
+                        
+                        if question_id in options_dict:
+                            for option in options_dict[question_id]:
+                                file.write(f"- {option}\n")
+                        file.write(f"Right : {question[2]}\t")
+                        try:
+                            file.write(f"Chose : {user_answers[question_id]}\n")
+                        except:
+                            pass
+                print(f"Writed: {filename}")
+        
         
         
 
@@ -110,46 +114,50 @@ def create_toefl_materials(tpo_neo, number):
         # Writing listening records to text files
         for ind, row in enumerate(rows):
             filename = f"{tpo_neo.upper()}{number}-Listening-{mmps[ind]}.md"
-            with open(os.path.join(text_dir, filename), 'w') as file:
-                file.write(row[0])  # Assuming that the script is at index 2
-                
-                query = f"SELECT listening_question_questionId,listening_question_questionContent, listening_question_questionRightAnswer FROM tpo_listening_question WHERE listening_question_questionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_question_questionId"
-                cursor.execute(query)
-                qrows = cursor.fetchall()
-                query = f"SELECT listening_question_options_questionId,listening_question_options_optionContent FROM tpo_listening_question_options WHERE listening_question_options_optionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_question_options_optionId"
-                cursor.execute(query)
-                qorows = cursor.fetchall()
-                
-                
-                user_conn = sqlite3.connect('tpouser.db')
-                user_cursor = user_conn.cursor()
-                user_cursor.execute(f"SELECT listening_questionId, userChoice FROM listenAnswer WHERE listening_questionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_questionId")
-                
-                user_answers = {qid: ua for qid,ua in user_cursor.fetchall()}
-                
-                options_dict = {}
-                for option in qorows:
-                    question_id = option[0]
-                    option_content = option[1]
-                    if question_id not in options_dict:
-                        options_dict[question_id] = []
-                    options_dict[question_id].append(option_content)
+            file_path = os.path.join(text_dir, filename)
+            if not os.path.exists(file_path) or os.path.getsize(file_path) <= 0:
+                with open(os.path.join(text_dir, filename), 'w') as file:
+                    file.write(row[0])  # Assuming that the script is at index 2
+                    
+                    query = f"SELECT listening_question_questionId,listening_question_questionContent, listening_question_questionRightAnswer FROM tpo_listening_question WHERE listening_question_questionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_question_questionId"
+                    cursor.execute(query)
+                    qrows = cursor.fetchall()
+                    query = f"SELECT listening_question_options_questionId,listening_question_options_optionContent FROM tpo_listening_question_options WHERE listening_question_options_optionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_question_options_optionId"
+                    cursor.execute(query)
+                    qorows = cursor.fetchall()
+                    
+                    
+                    user_conn = sqlite3.connect('tpouser.db')
+                    user_cursor = user_conn.cursor()
+                    user_cursor.execute(f"SELECT listening_questionId, userChoice FROM listenAnswer WHERE listening_questionId LIKE '{tpo_neo.upper()}_0{number}_L00{ind+1}%' ORDER BY listening_questionId")
+                    
+                    user_answers = {qid: ua for qid,ua in user_cursor.fetchall()}
+                    
+                    options_dict = {}
+                    for option in qorows:
+                        question_id = option[0]
+                        option_content = option[1]
+                        if question_id not in options_dict:
+                            options_dict[question_id] = []
+                        options_dict[question_id].append(option_content)
 
-                
-                for question in qrows:
-                    question_id = question[0]
-                    question_content = question[1]
                     
-                    file.write(f"\n\n#### {question_id}\n")
-                    file.write(f"{question_content}\n")
-                    
-                    if question_id in options_dict:
-                        for option in options_dict[question_id]:
-                            file.write(f"- {option}\n")
-                    file.write(f"Right : {question[2]}\t")
-                    file.write(f"Chose : {user_answers[question_id]}\n")
-                
-            print(f"Writed: {filename}")
+                    for question in qrows:
+                        question_id = question[0]
+                        question_content = question[1]
+                        
+                        file.write(f"\n\n#### {question_id}\n")
+                        file.write(f"{question_content}\n")
+                        
+                        if question_id in options_dict:
+                            for option in options_dict[question_id]:
+                                file.write(f"- {option}\n")
+                        file.write(f"Right : {question[2]}\t")
+                        try:
+                            file.write(f"Chose : {user_answers[question_id]}\n")
+                        except:
+                            pass
+                print(f"Writed: {filename}")
 
         # Close database connections
         conn.close()
