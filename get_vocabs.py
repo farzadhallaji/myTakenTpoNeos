@@ -12,6 +12,7 @@ def main():
         matches = re.findall(r'\*(.*?)\*', txt)
         for match in matches:
             print(match)
+        print(len(matches))
 if __name__ == "__main__":
     main()
  
