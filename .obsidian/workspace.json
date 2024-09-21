@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPO42/Text/TPO42-Reading-P1.md",
+                "file": "NOTES/Writing/BorzAbadi/Grammar/W2/Exercise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPO42/Text/TPO42-Reading-P1.md",
+                "file": "NOTES/Writing/BorzAbadi/Grammar/W2/Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TPO42/Text/TPO42-Reading-P1.md",
+                "file": "NOTES/Writing/BorzAbadi/Grammar/W2/Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TPO42/Text/TPO42-Reading-P1.md"
+                "file": "NOTES/Writing/BorzAbadi/Grammar/W2/Exercise.md"
               }
             }
           }
@@ -143,46 +143,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "3d160355825cde76",
   "lastOpenFiles": [
-    "TPO41/Text/TPO41-Listening-L4.md",
-    "TPO43/Text/TPO43-Reading-P3.md",
-    "TPO43/Text/TPO43-Reading-P2.md",
-    "TPO43/Text/TPO43-Listening-L4.md",
-    "TPO43/Text/TPO43-Listening-L3.md",
-    "TPO43/Text/TPO43-Listening-C2.md",
-    "TPO43/Text/TPO43-Listening-L2.md",
-    "TPO43/Text/TPO43-Listening-L1.md",
-    "TPO43/Text/TPO43-Listening-C1.md",
-    "TPO41/Text/TPO41-Listening-L3.md",
-    "TPO41/Text/TPO41-Listening-C2.md",
-    "TPO41/Text/TPO41-Listening-L2.md",
-    "TPO41/Text/TPO41-Listening-L1.md",
-    "TPO41/Text/TPO41-Listening-C1.md",
-    "TPO41/Text/TPO41-Reading-P3.md",
-    "TPO41/Text/TPO41-Reading-P2.md",
-    "TPO41/Text/TPO41-Reading-P1.md",
-    "TPO40/Text/TPO40-Listening-L4.md",
-    "TPO39/lu1123721tqb8vh.tmp",
-    "TPO39/lu1123721tqb8vf.tmp",
-    "TPO39/lu1123721tqb8vd.tmp",
-    "TPO39/lu1123721tqb8vb.tmp",
-    "TPO39/lu1123721tqb8v9.tmp",
-    "TPO39/lu1123721tqb8v7.tmp",
-    "TPO39/lu1123721tqb8v5.tmp",
-    "TPO39/lu1123721tqb8v3.tmp",
-    "TPO39/lu1123721tqb8v1.tmp",
-    "TPO39/lu1123721tqb8uz.tmp",
-    "TPO40/Text/TPO40-Listening-L3.md",
-    "TPO40/Text/TPO40-Listening-C2.md",
-    "TPO40/Text/TPO40-Listening-L2.md",
-    "TPO40/Text/TPO40-Listening-L1.md",
-    "TPO40/Text/TPO40-Listening-C1.md",
-    "TPO40/TPO40-Sentences.md",
-    "TPO40/Text/TPO40-Reading-P3.md",
-    "TPO40/Text/TPO40-Reading-P2.md"
+    "NOTES/Writing/BorzAbadi/Grammar/W1.md",
+    "NOTES/Writing/BorzAbadi/Grammar/W2/Exercise.md",
+    "NOTES/Writing/BorzAbadi/Writing/W1.md",
+    "NOTES/Writing/BorzAbadi/Grammar/W2/Adverbial-clauses-1.docx",
+    "NOTES/Writing/BorzAbadi/Grammar/W2",
+    "NOTES/Writing/BorzAbadi/Writing/W2/Adverbial-clauses-1.docx",
+    "NOTES/Writing/BorzAbadi/Writing/W2",
+    "NOTES/Writing/BorzAbadi/Writing/W1/2-Integrated-Writing-in-Action-1.pdf",
+    "NOTES/Writing/BorzAbadi/Writing/W1/Integrated-Writing-Explanation-and-Template.pdf",
+    "NOTES/Writing/BorzAbadi/Writing/W1",
+    "NOTES/Writing/BorzAbadi/Writing",
+    "NOTES/Writing/BorzAbadi/Grammar",
+    "Notes-files.md",
+    "NOTES/Writing/BorzAbadi/Grammar.md.part",
+    "Finished/TPO40/Text/TPO40-Reading-P3.md",
+    "Finished/TPO40/Text/TPO40-Reading-P2.md",
+    "Finished/TPO40/Text/TPO40-Reading-P1.md",
+    "Finished/TPO40/Text/TPO40-Listening-L3.md",
+    "Finished/TPO40/Text/TPO40-Listening-L4.md",
+    "Finished/TPO40/Text/TPO40-Listening-L2.md",
+    "Finished/TPO40/Text/TPO40-Listening-L1.md",
+    "Finished/TPO40/Text/TPO40-Listening-C2.md",
+    "Finished/TPO40/Text/TPO40-Listening-C1.md",
+    "Finished/TPO40/TPO40-Sentences.md",
+    "Finished/TPO39/Text/TPO39-Reading-P3.md",
+    "Finished/TPO39/Text/TPO39-Reading-P2.md",
+    "Finished/TPO39/Text/TPO39-Reading-P1.md",
+    "Finished/TPO39/Text/TPO39-Listening-L4.md",
+    "Finished/TPO39/Text/TPO39-Listening-L3.md",
+    "Finished/TPO39/Text/TPO39-Listening-L2.md",
+    "Finished/TPO39/Text/TPO39-Listening-L1.md",
+    "Finished/TPO39/Text/TPO39-Listening-C2.md",
+    "Finished/TPO39/Text/TPO39-Listening-C1.md",
+    "Finished/TPO39/TPO39-Sentences.md",
+    "Finished/TPO38/Text/TPO38-Reading-P3.md",
+    "Finished/TPO38/Text/TPO38-Reading-P2.md"
   ]
 }

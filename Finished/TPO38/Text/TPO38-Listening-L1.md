@@ -1,0 +1,86 @@
+来源QQ519626928 微信crysmiling
+
+Narrator:
+Listen to part of a lecture in a botany class.
+
+Professor：
+Okay. Let's move on, to bacteria and viruses that can infect plants. And let's start out with a virus that's rather common in various plants but first became known in connection with *tulips*. This virus can cause a change in pigmentation that dramatically affects the color of the plant's leaves or flower petals. But since not all cells of the plant tissue are infected, the result tends to be color variation. With color intensified in one part of the flower petal and faded in another, this is called color breaking. And the virus that causes this in tulip is called the tulip-breaking virus.
+
+The tulip-breaking virus is now known to have *detrimental* effects on plants. They're weaker and sometimes reduced in size.
+
+But for centuries people didn’t have a due about this virus. Not until the early 1800s was it known what caused the color breaking in tulips, what made the tulip plant produce flower petals so radically different in color or in pattern from what you would have expected. 
+
+Tulip flowers with *stripes* or *streaks* or *feather* or flame patterns on their petals, there is no doubt in my mind that these symptoms of this breaking virus affected human behavior too indirectly, that they set off the famous tulip craze in the Netherlands. Let me explain.
+
+In the 17th century, the Netherlands was among the most important trading centers in all of Europe with lots of rich merchants who wanted to showcase their wealth, for example, by displaying exotic tulips in their private gardens. 
+
+Now, tulips are not native to the Netherlands. They originated in the mountains of Central Asia and spread from Persia, present-day Iran, to the Turkish Ottoman Empire and from there eventually reached Europe.
+
+There's an explanation for the origin of the name "tulip" that kind of reflects this. Apparently, it came from a Persian word for "*turban*", you know, a cloth wind round the head."um".a style of *headgear* worn by men in that part of the world.
+
+Well, the Ottomans used a similar name for tulips after they acquired them from Persia. And then, in the late 16th century, a variation on that name found its way from what is now Turkey to the Netherlands along with the plant itself.
+
+Okay.
+
+A Tulip, of course, is typically grown from an underground *bulb*. And although as it flowers the old bulb *shrivels* to almost nothing, the plant produces another large bulb and maybe two, three, four smaller ones to take its place, and while tulips take up to seven years to bloom if you start from seeds. A large bulb can produce a flower the very next year. With the smaller bulbs it takes maybe a couple of years. And since these bulbs remain *viable* for quite a long time, even out of the ground, they can be stored or transported long distances without much of a problem, which helps explain the spread of tulip cultivation.
+
+At first, tulips were rare in the Netherlands and only for the wealthy. But in the early 17th century, as more bulbs were produced there, you'd think the prices would come down. In fact, though, the popularity of some tulips increased tremendously. So demands soon far exceeded supply and their prices *skyrocketed*. And the tulips most prized for their uniqueness and beauty were apparently the ones inflected by this mysterious virus. At that time, nobody was really able to breed tulips like these. Color breaking happened in just two or three out of a hundred bulbs and seemingly just by chance. 
+
+And since you didn't really know when you bought a bulb if the colors would break, well, Dutch *speculators* invested *hand over fist* and drove prices sky high. Some bulbs, even while still in the ground, were sold for as much as you would pay for a house at the time. But the huge speculative bubble created by this tulip craze eventually collapsed. And when the prices fell, that *wiped out* a lot of fortunes almost overnight.
+
+Later on, tulip breeders learned to duplicate color breaking in healthy, uninfected plants, so the *spectacular-looking tulips* so common today are the result not of chance viral infections, but of carefully controlled breeding.
+
+感谢黄萌主www.ladynbirds.com
+
+#### TPO_038_L002_Q001
+What does the professor mainly discuss?
+- Techniques for breeding unusual varieties of tulips in the Netherlands
+- New types of plants introduced to Europe through trade
+- The spread of plant diseases throughout seventeenth-century Europe
+- The impact of a plant virus in the Netherlands in the seventeenth century
+Right : D	Chose : D
+
+
+#### TPO_038_L002_Q002
+What opinion does the professor express about color breaking in tulips?
+- It probably occurred more often in the seventeenth century than it does today.
+- It was not as rare in the seventeenth century as botanists believed.
+- It influenced the behavior of many people in the Netherlands.
+- It will probably never be duplicated through controlled breeding.
+Right : C	Chose : C
+
+
+#### TPO_038_L002_Q003
+According to the professor, what is one reason that the Dutch started cultivating tulips?
+- There was an increase in trade between the Netherlands and Persia.
+- There were plans to open a new botanical garden in the Netherlands.
+- Wealthy individuals wanted to show that they could afford expensive merchandise.
+- Dutch botanists became skilled in crossbreeding plants.
+Right : C	Chose : C
+
+
+#### TPO_038_L002_Q004
+Why does the professor mention a turban worn by some men?
+- To offer an explanation for how the tulip got its name
+- To emphasize the unique color patterns of some tulips
+- To explain why the tulip was considered an exotic flower in Europe
+- To describe differences between Dutch tulips and Persian tulips
+Right : A	Chose : A
+
+
+#### TPO_038_L002_Q005
+According to the professor, what characteristic of tulips aided the spread of tulip cultivation?
+- Tulips grown from seeds produce bulbs within a year.
+- Tulip bulbs can be removed from the ground and stored.
+- Tulips adapt easily to different kinds of soil.
+- Tulips are relatively resistant to plant viruses.
+Right : B	Chose : B
+
+
+#### TPO_038_L002_Q006
+According to the professor, what factors contributed to a dramatic rise in the prices of some tulips in the early seventeenth century?
+- Botanists discovered how to breed tulips that were resistant to certain plant diseases.
+- The demand for tulips increased in Persia and the Ottoman Empire.
+- Dutch speculators enthusiastically bought tulip bulbs as investments.
+- The most desirable tulips could not be produced by breeding at that time.
+Right : CD	Chose :  CD
