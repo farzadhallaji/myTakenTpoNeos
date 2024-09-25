@@ -25,7 +25,7 @@ Let's back up a bit. Just what produces this red color in leaves? It's a red pig
 Here is where the classic explanation doesn't seem to apply to red. What’s interesting is that during the summer there was very little if any anthocyanin in the leaves. But in the weeks before a tree is about to drop its leaves, the production of anthocyanins increases significantly. In other words, unlike those other pigments, anthocyanins are not just unmasked by the breakdown of chlorophyll in autumn. They are actually created at this time.
 
 So that raises a question, why would a tree produce more anthocyanin just before dropping its leaves? Why does the tree spend so much of its resources doing this just before the leaves fall off? 
-On the surface, that doesn’t make sense•丨t’d be likes spending money to...I don't know...to have your old car repainted when you know the car's not going to last more than a couple of months. All this extra anthocyanin in the autumn seems like a waste.
+On the surface, that doesn’t make sense• it’d be likes spending money to...I don't know...to have your old car repainted when you know the car's not going to last more than a couple of months. All this extra anthocyanin in the autumn seems like a waste.
 
 But remember nature is very economical with its resources. So that means anthocyanin must be serving some function that's important for the tree.
 

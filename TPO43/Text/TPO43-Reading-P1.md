@@ -1,4 +1,4 @@
-### The Empire of Alexander the Great
+i### The Empire of Alexander the Great
 
 In 334 B.C. Alexander the Great took his *Greek* armies to the east and in only a few years completed his creation of an empire out of much of southwest Asia. In the new empire, barriers to trade and the movement of peoples were removed; markets were put in touch with one another. In the next generation thousands of Greek traders and artisans would enter this wider world to seek their fortunes. Alexander’s actions had several important consequences for the region occupied by the empire.
 

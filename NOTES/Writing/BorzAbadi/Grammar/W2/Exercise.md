@@ -1,4 +1,4 @@
-**Question 1:**
+*Question 1:**
 
 1. When the inquiry _________ its investigation, it will publish a report.
 
