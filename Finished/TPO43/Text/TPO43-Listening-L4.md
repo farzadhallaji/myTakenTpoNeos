@@ -16,17 +16,17 @@ Uh, Ok. That might be a good place to start actually. Sound waves are mechanical
 
 Radio waves, on the other hand, are fundamentally different from sound waves. They are electromagnetic. They result from oscillations of the electromagnetic field and don't need a physical medium, so they, like other types of electromagnetic wave, can travel basically anywhere, through a vacuum, or through atmosphere or water.
 
-Now, radio waves can be detected. For example, very low frequency radio waves can be detected with a special type of radio receiver called a very low frequency radio or VLF radio, which can pick up radio waves with very low frequencies, from 3 to 30 kilohertz, which aren't really picked up by a regular household or car radio. So VLF radios pick up VLF radio waves and convert them to sounds we can hear.
+Now, radio waves can be detected. For example, very low frequency radio waves can be detected with a special type of radio receiver called a very low frequency radio or VLF radio, which can pick up radio waves with very low frequencies, from 3 to 30 kilohertz, which aren't really picked up by a regular *household* or car radio. So VLF radios pick up VLF radio waves and convert them to sounds we can hear.
 
 Um, on Earth, the main source of naturally occurring VLF emissions is lightning, which generates a pulse of radio waves every time it flashes. Yes, Laura.
 
 Student:
-Since you almost always get lightning with thunderstorms. We can pick up VLF waves pretty often, right? You just have to wait until there is a thunderstorm.
+Since you almost always get *lightning* with thunderstorms. We can pick up VLF waves pretty often, right? You just have to wait until there is a thunderstorm.
 
 Professor:
-Ah, do you? Have to wait? VLF receivers are very sensitive and VLF waves travel very far. So we can pick up emissions from lightning that's far away. So actually, you can pretty much listen to them all the time because lightning strikes Earth constantly, about a hundred times per second. Even if there is no lightning where you are, with a VLF radio, you can hear the crackling from storms that are thousands of kilometers away.
+Ah, do you? Have to wait? VLF receivers are very sensitive and VLF waves travel very far. So we can pick up emissions from lightning that's far away. So actually, you can pretty much listen to them all the time because lightning strikes Earth constantly, about a hundred times per second. Even if there is no lightning where you are, with a VLF radio, you can hear the *crackling* from storms that are thousands of kilometers away.
 
-However, some times of day are better than others for picking up VLF waves. Daytime isn't as good as night time, for example. And what's more, my colleague Denis Gallagher says, and in my opinion, he's right. He says the best time to listen for them is around sunset or sunrise. That's when there’re natural waveguides in the local atmosphere.
+However, some times of day are better than others for picking up VLF waves. Daytime isn't as good as night time, for example. And what's more, my colleague Denis Gallagher says, and in my opinion, he's right. He says the best time to listen for them is around sunset or sunrise. That's when there’re natural *waveguides* in the local atmosphere.
 
 Student:
 Did you say waveguide?
@@ -36,9 +36,9 @@ Yes, a waveguide. Usually it refers to a device, like a metal conductor that's u
 
 Now, there are a few different sounds that you can hear on a VLF receiver, because when lightning strikes the radio waves travel different distances and in different ways before they reach the receiver.
 
-Some really interesting ones are called whistlers. Whistlers come from lightning-generated radio waves that leave earth's atmosphere and travel into earth's magnetosphere before bouncing back down. Not all radio waves do this and the sound they make, well, we call them whistlers because they sound like slowly descending tones. And no two whistlers are alike. To me, they're the most intriguing.
+Some really interesting ones are called *whistlers*. Whistlers come from lightning-generated radio waves that leave earth's atmosphere and travel into earth's magnetosphere before bouncing back down. Not all radio waves do this and the sound they make, well, we call them whistlers because they sound like slowly descending tones. And no two whistlers are alike. To me, they're the most *intriguing*.
 
-Another interesting sound is the tweek. Tweeks are the result of VLF waves that have travelled a long distance through the waveguides. They produce a chirpy sound because the higher frequency parts of the wave reach the radio receiver before the lower frequency parts.  The entire wave is still considered very low frequency. It's just that some parts of the wave have lower frequencies than others, OK?
+Another interesting sound is the *tweek*. Tweeks are the result of VLF waves that have travelled a long distance through the waveguides. They produce a *chirpy* sound because the higher frequency parts of the wave reach the radio receiver before the lower frequency parts.  The entire wave is still considered very low frequency. It's just that some parts of the wave have lower frequencies than others, OK?
 
 感谢黄萌主www.ladynbirds.com
 

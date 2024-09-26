@@ -25,7 +25,7 @@ Student：
 Yup.
 
 Professor：
-Good. Oh, oh, also, please remind everyone about the reception afterward. It'll be an opportunity to ask Alan Altman about his acting in the play, which we can discuss in class next week.
+Good. Oh, oh, also, please remind everyone about the *reception* afterward. It'll be an opportunity to ask Alan Altman about his acting in the play, which we can discuss in class next week.
 
 Student：
 Ok, I will tell them. It's really something! I mean, I know our acting professors must in plays all the time, but it isn't every day you get to see one right here in town.
@@ -49,7 +49,7 @@ Student：
 Yeah, seems like it might be easier, like to start with something that’s already written.
 
 Professor：
-Well, actually think about it, transferring that material to a whole different genre, from narration to live dialogue. Imagination is a part of it, sure, but it also requires a lot of technical knowledge of about theater production, acting and so on. So Professor Altman, for example, he took a novel and made it into a play, dealing with all the different conventions that plays have. You know, like limitations of scene changes and...uh...well, it'd be a good thing to ask him about it at the reception tomorrow.
+Well, actually think about it, transferring that material to a whole different genre, from *narration* to live dialogue. Imagination is a part of it, sure, but it also requires a lot of technical knowledge of about theater production, acting and so on. So Professor Altman, for example, he took a novel and made it into a play, dealing with all the different conventions that plays have. You know, like limitations of scene changes and...uh...well, it'd be a good thing to ask him about it at the reception tomorrow.
 
 Student：
 Yeah, sounds like an interesting topic.

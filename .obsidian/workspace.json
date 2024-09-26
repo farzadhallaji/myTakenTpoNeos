@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27f16cccd3a007bf",
+        "id": "46859bc5eac17091",
         "type": "tabs",
         "children": [
           {
-            "id": "e2ffc4c5ee5c1b3d",
+            "id": "99ae311dc8fd670c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPO43/Text/TPO43-Listening-L2.md",
+                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPO43/Text/TPO43-Listening-L2.md",
+                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TPO43/Text/TPO43-Listening-L2.md",
+                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TPO43/Text/TPO43-Listening-L2.md"
+                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md"
               }
             }
           }
@@ -151,8 +151,33 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2ffc4c5ee5c1b3d",
+  "active": "99ae311dc8fd670c",
   "lastOpenFiles": [
+    "store/Store/codes/tts_output/English.mp3",
+    "store/Store/codes/tts_output/American.mp3",
+    "store/Store/codes/tts_output/lists.mp3",
+    "store/Store/codes/tts_output/example pronunciations.mp3",
+    "store/Store/codes/tts_output/list.mp3",
+    "store/Store/codes/tts_output/pronunciation.mp3",
+    "store/Store/codes/tts_output/example.mp3",
+    "store/Store/codes/tts_output",
+    "store/Store/codes/get_audio.py",
+    "Finished/TPO43/TPO-NEO-Vocabs-Collocations-tpo43.csv",
+    "Finished/TPO43/TPO-NEO-Vocabs-Collocations-tpo433.csv",
+    "Finished/TPO43/Text/TPO43-Reading-P3.md",
+    "Finished/TPO43/Text/TPO43-Reading-P2.md",
+    "Finished/TPO43/Text/TPO43-Reading-P1.md",
+    "Finished/TPO43/Text/TPO43-Listening-L4.md",
+    "Finished/TPO43/Text/TPO43-Listening-L3.md",
+    "Finished/TPO43/Text/TPO43-Listening-L2.md",
+    "Finished/TPO43/Text/TPO43-Listening-L1.md",
+    "Finished/TPO43/Text/TPO43-Listening-C2.md",
+    "Finished/TPO43/Text/TPO43-Listening-C1.md",
+    "Finished/TPO43/TPO43-Sentences.md",
+    "TPO43/Text/TPO43-Listening-L4.md",
+    "TPO43/Text/TPO43-Listening-L3.md",
+    "TPO43/Text/TPO43-Listening-C2.md",
+    "TPO43/Text/TPO43-Listening-L2.md",
     "TPO43/Text/TPO43-Listening-L1.md",
     "TPO43/Text/TPO43-Listening-C1.md",
     "TPO43/Text/TPO43-Reading-P3.md",
@@ -163,31 +188,6 @@
     "Finished/TPO42/Text/TPO42-Listening-L3.md",
     "Finished/TPO42/Text/TPO42-Listening-C2.md",
     "Finished/TPO42/Text/TPO42-Listening-L2.md",
-    "Finished/TPO42/Text/TPO42-Listening-L1.md",
-    "Finished/TPO42/Text/TPO42-Listening-C1.md",
-    "Finished/TPO42/Text/TPO42-Reading-P3.md",
-    "Finished/TPO42/Text/TPO42-Reading-P2.md",
-    "Finished/TPO42/Text/TPO42-Reading-P1.md",
-    "TPO41/Text/TPO41-Listening-L4.md",
-    "Finished/TPO41/Text/TPO41-Reading-P3.md",
-    "Finished/TPO41/Text/TPO41-Reading-P2.md",
-    "Finished/TPO41/Text/TPO41-Reading-P1.md",
-    "Finished/TPO41/Text/TPO41-Listening-L4.md",
-    "Finished/TPO41/Text/TPO41-Listening-L3.md",
-    "Finished/TPO41/Text/TPO41-Listening-L2.md",
-    "Finished/TPO41/Text/TPO41-Listening-L1.md",
-    "Finished/TPO41/Text/TPO41-Listening-C2.md",
-    "Finished/TPO41/Text/TPO41-Listening-C1.md",
-    "Finished/TPO41/Audio/TPO41_Listening-L4.mp3",
-    "Finished/TPO41/Audio/TPO41_Listening-L3.mp3",
-    "Finished/TPO41/Audio/TPO41_Listening-L2.mp3",
-    "Finished/TPO41/Audio/TPO41_Listening-L1.mp3",
-    "Finished/TPO41/Audio/TPO41_Listening-C2.mp3",
-    "Finished/TPO41/Audio/TPO41_Listening-C1.mp3",
-    "Finished/TPO41/Text",
-    "Finished/TPO41/TPO41-Sentences.md",
-    "Finished/TPO41/TPO-NEO-Vocabs-Collocations-tpo41.csv",
-    "Finished/TPO41/Audio",
-    "Finished/TPO41"
+    "Finished/TPO42/Text/TPO42-Listening-L1.md"
   ]
 }
