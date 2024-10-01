@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46859bc5eac17091",
+        "id": "feaeecc94a8f7ba3",
         "type": "tabs",
         "children": [
           {
-            "id": "99ae311dc8fd670c",
+            "id": "a8cd6e529d0833a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
+                "file": "TPO45/Text/TPO45-Listening-L4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
+                "file": "TPO45/Text/TPO45-Listening-L4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md",
+                "file": "TPO45/Text/TPO45-Listening-L4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finished/TPO41/Text/TPO41-Reading-P1.md"
+                "file": "TPO45/Text/TPO45-Listening-L4.md"
               }
             }
           }
@@ -151,43 +151,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99ae311dc8fd670c",
+  "active": "a8cd6e529d0833a2",
   "lastOpenFiles": [
-    "NOTES/Writing/BorzAbadi/Telegram/About Task 1 and Task 2.pdf",
-    "NOTES/Writing/BorzAbadi/Telegram/CorrectedWritingHomework1.zip",
-    "NOTES/Writing/BorzAbadi/Telegram/W1.docx",
-    "NOTES/Writing/BorzAbadi/Telegram",
-    "NOTES/Writing/BorzAbadi/Notes.md",
-    "Finished/TPO41/Text/TPO41-Reading-P1.md",
-    "Finished/TPO38/updated_TPO-NEO-Vocabs-Collocations-tpo38.csv",
-    "Finished/TPO32/updated_TPO-NEO-Vocabs-Collocations-tpo32.csv",
-    "Finished/TPO29/updated_TPO-NEO-Vocabs-Collocations-tpo29.csv",
-    "Finished/TPO22/updated_TPO-NEO-Vocabs-Collocations-tpo22.csv",
-    "Finished/TPO36/updated_TPO-NEO-Vocabs-Collocations-tpo36.csv",
-    "Finished/TPO30/updated_TPO-NEO-Vocabs-Collocations-tpo30.csv",
-    "Finished/TPO39/updated_TPO-NEO-Vocabs-Collocations-tpo39.csv",
-    "Finished/TPO43/Text/TPO43-Reading-P3.md",
-    "Finished/TPO43/Text/TPO43-Reading-P2.md",
-    "Finished/TPO43/Text/TPO43-Reading-P1.md",
-    "Finished/TPO43/Text/TPO43-Listening-L4.md",
-    "Finished/TPO43/Text/TPO43-Listening-L3.md",
-    "Finished/TPO43/Text/TPO43-Listening-L2.md",
-    "Finished/TPO43/Text/TPO43-Listening-L1.md",
-    "Finished/TPO43/Text/TPO43-Listening-C2.md",
-    "Finished/TPO43/Text/TPO43-Listening-C1.md",
-    "Finished/TPO43/TPO43-Sentences.md",
-    "TPO43/Text/TPO43-Listening-L4.md",
-    "TPO43/Text/TPO43-Listening-L3.md",
-    "TPO43/Text/TPO43-Listening-C2.md",
-    "TPO43/Text/TPO43-Listening-L2.md",
-    "TPO43/Text/TPO43-Listening-L1.md",
-    "TPO43/Text/TPO43-Listening-C1.md",
-    "TPO43/Text/TPO43-Reading-P3.md",
-    "TPO43/Text/TPO43-Reading-P2.md",
-    "TPO43/Text/TPO43-Reading-P1.md",
-    "TPO43/TPO43-Sentences.md",
-    "Finished/TPO42/Text/TPO42-Listening-L4.md",
-    "Finished/TPO42/Text/TPO42-Listening-L3.md",
-    "Finished/TPO42/Text/TPO42-Listening-C2.md"
+    "TPO45/Text/TPO45-Listening-L3.md",
+    "TPO45/Text/TPO45-Listening-C2.md",
+    "TPO45/Text/TPO45-Listening-L2.md",
+    "TPO45/Text/TPO45-Listening-L1.md",
+    "TPO45/Text/TPO45-Listening-C1.md",
+    "TPO45/Text/TPO45-Reading-P3.md",
+    "TPO45/Text/TPO45-Listening-L4.md",
+    "tpouser.db-journal",
+    "TPO45/Audio/TPO45_Listening-L4.mp3",
+    "TPO45/Audio/TPO45_Listening-L3.mp3",
+    "TPO45/Audio/TPO45_Listening-C2.mp3",
+    "TPO45/Audio/TPO45_Listening-L2.mp3",
+    "TPO45/Audio/TPO45_Listening-L1.mp3",
+    "TPO45/Audio/TPO45_Listening-C1.mp3",
+    "TPO45/Text/TPO45-Reading-P2.md",
+    "TPO45/Text/TPO45-Reading-P1.md",
+    "TPO45/Text",
+    "TPO45/TPO45-Sentences.md",
+    "TPO45/TPO-NEO-Vocabs-Collocations-tpo45.csv",
+    "TPO45/Audio",
+    "TPO44/Text/TPO44-Listening-L4.md",
+    "Finished/TPO44/Text/TPO44-Reading-P3.md",
+    "Finished/TPO44/Text/TPO44-Reading-P2.md",
+    "Finished/TPO44/Text/TPO44-Reading-P1.md",
+    "Finished/TPO44/Text/TPO44-Listening-L4.md",
+    "Finished/TPO44/Text/TPO44-Listening-L3.md",
+    "Finished/TPO44/Text/TPO44-Listening-L2.md",
+    "Finished/TPO44/Text/TPO44-Listening-L1.md",
+    "Finished/TPO44/Text/TPO44-Listening-C2.md",
+    "Finished/TPO44/Text/TPO44-Listening-C1.md",
+    "Finished/TPO44/TPO44-Sentences.md",
+    "TPO44/Text/TPO44-Listening-L3.md",
+    "TPO44/Text/TPO44-Listening-C2.md",
+    "TPO44/Text/TPO44-Listening-L2.md",
+    "Finished/TPO41/Text/TPO41-Reading-P1.md"
   ]
 }
